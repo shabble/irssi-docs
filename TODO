@@ -61,3 +61,5 @@
 ** Host on metavore?
 ** Talk to maintainers about inclusion in core
 *** Maybe as patches to .xs files + parsing scripts?
+
+make this git repo work, dammit
